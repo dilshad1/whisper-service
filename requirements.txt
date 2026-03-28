@@ -1,0 +1,7 @@
+flask
+transformers
+optimum[intel]
+openvino-dev
+boto3
+soundfile
+torch
